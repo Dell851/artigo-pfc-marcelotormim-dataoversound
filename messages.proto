@@ -1,0 +1,9 @@
+syntax = "proto2";
+
+package soundcomm;
+
+message Message {
+  optional string senderid = 1;
+  optional int32 msgnum = 2;
+  optional string content = 3;
+}
