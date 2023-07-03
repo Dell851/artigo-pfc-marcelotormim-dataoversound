@@ -1,7 +1,7 @@
-# -pfc-marcelotormim-dataoversound
-Projeto de PFC de Marcelo Ribeiro Tormim.
+# -artigo-pfc-marcelotormim-dataoversound
+Códigos de artigo do PFC de Marcelo Ribeiro Tormim.
 
-Dependências do projeto:
+Dependências:
 
 - Protocol Buffers para Python (instruções para instalação de protobuf disponíveis em [github.com/protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf))
 - PyAudio (bindings Python para a biblioteca C de entrada/saída de áudio em tempo real PortAudio v19)
